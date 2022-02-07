@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+The purpose of the exercise was to generate a database with a reasonable number of cities with their location, to later find which ones you would like to visit depending on the climate that you like the most, in this case we chose a minimum of 68 degrees Fahrenheit and a maximum of 86 degrees. Fahrenheit, in addition to that, the route to follow was sought depending on whether the user likes to drive, walk (which would be very slow and tiring, depending on the proximity of the cities) or by bicycle, in this case we decided to ride a bicycle and adi we got a map with the route of a perfect vacation.
